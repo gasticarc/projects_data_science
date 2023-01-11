@@ -22,9 +22,9 @@ Fuente Dataset: https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
 * Developer Website: Sitio Web desarrollador
 * Developer Email: Email desarrollador
 * Released: Fecha de lanzamiento
-* Privacy Policy: Politica de privacidad del desarrollador
-* Last Updated: Fecha de ultima actualizacion en app
+* Privacy Policy: Política de privacidad del desarrollador
+* Last Updated: Fecha de ultima actualización en app
 * Content Rating: Calificación
 * Ad Supported: Si posee anuncios
 * In app purchases: Si permite compras dentro de la app
-* Editor Choice: S esta verificada por Play Store
+* Editor Choice: Si está verificada por Play Store
